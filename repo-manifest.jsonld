@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/DateTimeRange/commit/7ddde34a09ad6e5432e27b4bea6171c39edb4792",
       "git:hexsha": "7ddde34a09ad6e5432e27b4bea6171c39edb4792",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/DateTimeRange/commit/40a5179dec504918da00cb1b68cfa2886cceed5d",
